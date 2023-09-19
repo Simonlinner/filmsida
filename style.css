@@ -1,3 +1,32 @@
-.header {
-    
+body {
+    background-color: whitesmoke;
+}
+
+.img {
+    width: 400px;
+    height: 500px;
+    padding: 1%;
+    margin: 0% 2%;
+}
+
+.bank{
+    width: 700px;
+    height: auto;
+}
+
+.jones{
+    width: 700px;
+    height: auto;
+}
+
+.lego{
+    width: 700px;
+    height: auto;
+}
+
+.intro{
+    border-style: outset;
+    display: inline-block;
+    width: 180px;
+    background-color: azure;
 }
